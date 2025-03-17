@@ -3,9 +3,9 @@
 Hi! I'm [Your Name], a student in the Framework-Based Software Design and Development course. 
 I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+![My Image](https://github.com/Framework-Based-Software/icebreaking-laikee99/blob/profile-upload/28212423.png?raw=true)  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [here, insert link to your github profile]
+You can view my personalized GitHub profile [https://github.com/laikee99/]
 
